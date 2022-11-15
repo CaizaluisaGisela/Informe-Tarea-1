@@ -305,5 +305,7 @@ a)4R7J= 4.7 ± 5%
 b)5602M= 5602M
 
 c)1501F= 1501 ± 1%
+
  CONCLUSIONES
- En el trabajo de este informe para la tarea 1, se entendió de manera práctica el uso de la notación científica y la notación de ingeniería para la resolución de problemas o para su uso al utilizar prefijos métricos para el desarrollo de la verdad. Además, se han repasado conceptos como estructura atómica, electrones y cómo podemos calcular cargas con ellos. Tambiénc se aprenció a reconocer el valor de las resistencias y los tipos de resistencias y circuitos electrónicos existentes. Este informe identificó los dispositivos electrónicos de protección y su uso, el funcionamiento de interruptores, disyuntores y fusibles. Con los hallazgos de este informe, se puede sentar una buena base para continuar con el tema de los fundamentos de los circuitos eléctricos, ya que en esta tarea se han analizado y estudiado los fundamentos de este tema.
+
+En el trabajo de este informe para la tarea 1, se entendió de manera práctica el uso de la notación científica y la notación de ingeniería para la resolución de problemas o para su uso al utilizar prefijos métricos para el desarrollo de la verdad. Además, se han repasado conceptos como estructura atómica, electrones y cómo podemos calcular cargas con ellos. Tambiénc se aprenció a reconocer el valor de las resistencias y los tipos de resistencias y circuitos electrónicos existentes. Este informe identificó los dispositivos electrónicos de protección y su uso, el funcionamiento de interruptores, disyuntores y fusibles. Con los hallazgos de este informe, se puede sentar una buena base para continuar con el tema de los fundamentos de los circuitos eléctricos, ya que en esta tarea se han analizado y estudiado los fundamentos de este tema.
